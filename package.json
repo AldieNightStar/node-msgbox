@@ -1,0 +1,16 @@
+{
+  "name": "msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HaxiDenti",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^2.4.7",
+    "ref-napi": "^1.4.3"
+  }
+}
