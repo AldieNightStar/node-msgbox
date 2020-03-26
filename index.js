@@ -13,6 +13,4 @@ function msg(title, message) {
 	return u.MessageBoxA(0, title, message, 0);
 }
 
-msg("Hello!", "Hi!");
-
 module.exports = msg;
